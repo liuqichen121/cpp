@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/doudizhu.dir/link.d CMakeFiles/doudizhu.dir/斗地主.cpp.o -o doudizhu

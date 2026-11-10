@@ -1,0 +1,6 @@
+/home/liuqichen121/code/study_test/build/CMakeFiles/testgo.dir
+/home/liuqichen121/code/study_test/build/CMakeFiles/edit_cache.dir
+/home/liuqichen121/code/study_test/build/CMakeFiles/rebuild_cache.dir
+/home/liuqichen121/code/study_test/build/TheHead/CMakeFiles/TheHead.dir
+/home/liuqichen121/code/study_test/build/TheHead/CMakeFiles/edit_cache.dir
+/home/liuqichen121/code/study_test/build/TheHead/CMakeFiles/rebuild_cache.dir

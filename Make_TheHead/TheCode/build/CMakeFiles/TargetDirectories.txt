@@ -1,0 +1,3 @@
+/home/liuqichen121/code/Make_TheHead/TheCode/build/CMakeFiles/TheCodeGo.dir
+/home/liuqichen121/code/Make_TheHead/TheCode/build/CMakeFiles/edit_cache.dir
+/home/liuqichen121/code/Make_TheHead/TheCode/build/CMakeFiles/rebuild_cache.dir

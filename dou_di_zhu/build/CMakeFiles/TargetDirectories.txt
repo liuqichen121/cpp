@@ -1,0 +1,3 @@
+/home/liuqichen121/code/dou_di_zhu/build/CMakeFiles/doudizhu.dir
+/home/liuqichen121/code/dou_di_zhu/build/CMakeFiles/edit_cache.dir
+/home/liuqichen121/code/dou_di_zhu/build/CMakeFiles/rebuild_cache.dir

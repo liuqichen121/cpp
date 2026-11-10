@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTheHead.a CMakeFiles/TheHead.dir/liuqichen121.cpp.o
+/usr/bin/ranlib libTheHead.a

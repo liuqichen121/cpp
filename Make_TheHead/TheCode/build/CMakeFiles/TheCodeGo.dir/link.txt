@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/TheCodeGo.dir/link.d CMakeFiles/TheCodeGo.dir/main.cpp.o -o TheCodeGo   -L/home/liuqichen121/code/Make_TheHead/TheCode/TheHead  -Wl,-rpath,/home/liuqichen121/code/Make_TheHead/TheCode/TheHead -lTheHead

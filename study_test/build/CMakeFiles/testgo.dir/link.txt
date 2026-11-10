@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/testgo.dir/link.d CMakeFiles/testgo.dir/10.cpp.o -o testgo  TheHead/libTheHead.a

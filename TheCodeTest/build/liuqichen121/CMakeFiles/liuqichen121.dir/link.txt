@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/liuqichen121/code/TheCodeTest/lib/libliuqichen121.a CMakeFiles/liuqichen121.dir/POW.cpp.o CMakeFiles/liuqichen121.dir/ll_Read.cpp.o
+/usr/bin/ranlib /home/liuqichen121/code/TheCodeTest/lib/libliuqichen121.a

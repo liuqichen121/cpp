@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/TestRun.dir/link.d CMakeFiles/TestRun.dir/main.cpp.o -o /home/liuqichen121/code/TheCodeTest/bin/TestRun   -L/home/liuqichen121/code/TheCodeTest/lib  -Wl,-rpath,/home/liuqichen121/code/TheCodeTest/lib /home/liuqichen121/code/TheCodeTest/lib/libliuqichen121.a

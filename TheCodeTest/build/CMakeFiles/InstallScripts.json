@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/liuqichen121/code/TheCodeTest/build/cmake_install.cmake",
+		"/home/liuqichen121/code/TheCodeTest/build/liuqichen121/cmake_install.cmake",
+		"/home/liuqichen121/code/TheCodeTest/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

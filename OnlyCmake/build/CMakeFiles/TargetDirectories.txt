@@ -1,0 +1,3 @@
+/home/liuqichen121/code/OnlyCmake/build/CMakeFiles/app.dir
+/home/liuqichen121/code/OnlyCmake/build/CMakeFiles/edit_cache.dir
+/home/liuqichen121/code/OnlyCmake/build/CMakeFiles/rebuild_cache.dir

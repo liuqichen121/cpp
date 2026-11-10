@@ -1,0 +1,13 @@
+{
+    "cph.general.defaultLanguage": "cpp",
+    // "cph.general.defaultLanguageTemplateFileLocation": "E:\\Code\\template.cpp",    // 这是你的模板文件路径
+    "cph.general.firstTime": false,
+    "cph.language.cpp.SubmissionCompiler": "GNU G++20 6.4.0",   // 使用 C++20 标准
+    "cph.language.cpp.Args": "-std=c++20 -O2",    // -O2
+    "files.associations": {
+        "regex": "cpp",
+        "set": "cpp",
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/liuqichen121/code/HelloWorld"
+}
